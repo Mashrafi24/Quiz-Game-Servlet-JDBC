@@ -1,27 +1,3 @@
-
-Stores player information and scores.
-
-Database Configuration
-
-Open:
-
-src/main/java/com/boguraquiz/util/DBConnection.java
-
-Update MySQL username and password:
-
-private static final String URL =
-"jdbc:mysql://localhost:3306/quizapp";
-
-
-private static final String USER =
-"root";
-
-
-private static final String PASSWORD =
-"your_password";
-
-Save the file.
-
 Apache Tomcat Setup (macOS)
 Download Tomcat
 
