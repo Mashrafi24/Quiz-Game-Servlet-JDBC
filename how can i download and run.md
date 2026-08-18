@@ -1,3 +1,18 @@
+How to Run This Project on Macos
+This guide is for running Tangail District Quiz on a Windows PC.
+
+You need:
+
+Java JDK 17 or 21
+Apache Maven
+MySQL 8 (or MariaDB)
+Apache Tomcat 10 or 10.1 (not Tomcat 9)
+
+
+
+
+
+
 Apache Tomcat Setup (macOS)
 Download Tomcat
 
