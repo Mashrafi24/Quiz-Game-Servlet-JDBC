@@ -1,21 +1,3 @@
-Step 2: Required Tables
-
-The project uses the following tables:
-
-Questions Table
-
-Stores quiz questions:
-
-questions
-- id
-- question_text
-- option_a
-- option_b
-- option_c
-- option_d
-- correct_option
-- category
-Player Table
 
 Stores player information and scores.
 
